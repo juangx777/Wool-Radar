@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+
+# Virtualenv
+.venv/
+
+# Local config / secrets / state
+.env
+config/watch.yaml
+state/state.json
+
+# OS
+.DS_Store
