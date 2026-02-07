@@ -1,4 +1,4 @@
-# Seats.aero Flight Availability Notifier — Design Doc + Repo README (Single File)
+# Seats.aero Flight Availability Notifier — Design Doc + Repo README
 
 ---
 
